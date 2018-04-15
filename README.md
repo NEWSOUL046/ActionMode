@@ -12,4 +12,4 @@
 
 ### 实验结果：
 
-![C1](C1.PNG)
+![C1](https://github.com/NEWSOUL046/ActionMode/blob/master/C1.png)
